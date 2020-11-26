@@ -1,0 +1,20 @@
+.picture{
+  background-image: url('image/b7.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1040px;
+    
+ }
+ .taf{
+     bottom: 35px;
+     position: absolute;
+     left: 50%;
+ }
+
+ .sat{
+    padding: 70%;
+    height: 150px;
+    
+  
+
+}
